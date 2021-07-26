@@ -1,4 +1,19 @@
-### Hi there 👋
+![Ishan Kumar](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ishan%20Kumar&fontSize=40&&fontAlignY=40)
+### Hi there!
+I am Ishan Kumar, 3rd year Under Graduate at Manipal Institute of Technology pursuing B.Tech in Information Technology. My interest lies in developing mobile and web applications!
+
+
+## Connect:
+<br /><br />
+<a href="mailto:itsik159@gmail.com">
+  <img alt="Email" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://twitter.com/ik159">
+  <img alt="My Twitter Profile" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ik159/">
+  <img alt="My LinkedIn Page" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <!--
 **ik159/ik159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
