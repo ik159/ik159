@@ -4,7 +4,6 @@ I am Ishan Kumar, 3rd year Under Graduate at Manipal Institute of Technology pur
 
 
 ## Connect:
-<br /><br />
 <a href="mailto:itsik159@gmail.com">
   <img alt="Email" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
