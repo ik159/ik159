@@ -1,6 +1,7 @@
 ![Ishan Kumar](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ishan%20Kumar&fontSize=40&&fontAlignY=40)
 ### Hi there!
-I am Ishan Kumar, 3rd year Under Graduate at Manipal Institute of Technology pursuing B.Tech in Information Technology. I love to code and solve problems, also I love developing mobile and web applications too.
+I am Ishan Kumar, 3rd year Information Technology student at Manipal Institute Of Technology. Self motivated and open to learning. Passionate about coding and problem solving, avid interest in making web and mobile applications!
+
 
 
 ## Connect:
