@@ -1,7 +1,6 @@
 ![Ishan Kumar](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ishan%20Kumar&fontSize=40&&fontAlignY=40)
 ### Hi there!
-I am Ishan Kumar, 3rd year Information Technology student at Manipal Institute Of Technology. Self motivated and open to learning. Passionate about coding and problem solving, avid interest in making web and mobile applications!
-
+I am Ishan Kumar, Software Engineer at JP Morgan Chase & Co. Self motivated and open to learning. Experienced in Apache Spark, Apache Airflow, AWS Services (EKS,S3,Spark on EKS) and building ETL process & Big Data Pipeline. Fluent in Java and Python. AWS certified Cloud Practitioner and passionate about problem solving, avid interest in making web and mobile applications.
 
 
 ## Connect:
