@@ -1,6 +1,6 @@
 ![Ishan Kumar](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ishan%20Kumar&fontSize=42&fontAlignY=35)
 
-# Hi, I'm Ishan Kumar 👋
+# Hey there! 👋
 
 **Software Engineer @ JPMorgan Chase & Co.**
 
