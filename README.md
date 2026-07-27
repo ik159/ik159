@@ -4,9 +4,10 @@
 
 **Software Engineer @ JPMorgan Chase & Co.**
 
-Software Engineer with experience in building scalable systems, cloud-native infrastructure, and intuitive tools across data and application layers.
-
-I enjoy designing cloud-native applications, building reliable data platforms, and creating products that solve real-world problems. My work primarily revolves around distributed systems, backend engineering, big data, and AWS.
+Software Engineer with 3+ years of experience designing production-grade data pipelines in the financial domain.
+Strong expertise in Python-based ETL systems, event-driven architectures, and AI-powered workflow automation.
+Passionate about leveraging LLMs and intelligent agents to modernize data engineering and automate complex
+orchestration logic. AWS Certified Solutions Architect with hands-on experience building resilient data platforms.
 
 ---
 
@@ -16,7 +17,7 @@ I enjoy designing cloud-native applications, building reliable data platforms, a
 - ☁️ Building cloud-native applications and scalable backend systems
 - 📊 Developing ETL pipelines processing terabytes of data efficiently
 - 🛠️ Passionate about system design, distributed systems and developer tooling
-- 💻 Fluent in **Java** and **Python**
+- 💻 Fluent in **Python** and **Java**
 - 📚 Always exploring new technologies and solving challenging engineering problems
 
 ## 📫 Connect With Me
